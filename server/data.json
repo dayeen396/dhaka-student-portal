@@ -1,0 +1,207 @@
+{
+  "courses": [
+    {
+      "id": "programming",
+      "code": "SWE 101",
+      "title": "Introduction to Programming",
+      "category": "Foundations",
+      "level": "Foundation",
+      "credits": 3,
+      "duration": "12 weeks",
+      "icon": "⌘",
+      "description": "Build a strong base in programming logic, problem solving, and writing clear, maintainable code.",
+      "instructor": "Department teaching team",
+      "seatsAvailable": 24
+    },
+    {
+      "id": "data-structures",
+      "code": "CSE 203",
+      "title": "Data Structures & Algorithms",
+      "category": "Foundations",
+      "level": "Intermediate",
+      "credits": 3,
+      "duration": "14 weeks",
+      "icon": "⌗",
+      "description": "Explore core data structures and algorithmic strategies for solving computational problems.",
+      "instructor": "Department teaching team",
+      "seatsAvailable": 18
+    },
+    {
+      "id": "software-engineering",
+      "code": "SWE 201",
+      "title": "Software Engineering Principles",
+      "category": "Development",
+      "level": "Core",
+      "credits": 3,
+      "duration": "14 weeks",
+      "icon": "✳",
+      "description": "Learn requirements, design, teamwork, and dependable software delivery throughout a project lifecycle.",
+      "instructor": "Department teaching team",
+      "seatsAvailable": 12
+    },
+    {
+      "id": "databases",
+      "code": "CSE 205",
+      "title": "Database Systems",
+      "category": "Foundations",
+      "level": "Intermediate",
+      "credits": 3,
+      "duration": "12 weeks",
+      "icon": "▤",
+      "description": "Learn relational data modeling, SQL, and the fundamentals of safe, reliable data management.",
+      "instructor": "Department teaching team",
+      "seatsAvailable": 20
+    },
+    {
+      "id": "web-development",
+      "code": "SWE 221",
+      "title": "Web Development",
+      "category": "Development",
+      "level": "Applied",
+      "credits": 3,
+      "duration": "12 weeks",
+      "icon": "⌘",
+      "description": "Create responsive, accessible web experiences with modern browser technologies.",
+      "instructor": "Department teaching team",
+      "seatsAvailable": 16
+    },
+    {
+      "id": "testing-ai",
+      "code": "SWE 305",
+      "title": "Testing & Artificial Intelligence",
+      "category": "Quality & AI",
+      "level": "Explore",
+      "credits": 3,
+      "duration": "12 weeks",
+      "icon": "✦",
+      "description": "Discover software quality practices alongside foundational ideas in artificial intelligence.",
+      "instructor": "Department teaching team",
+      "seatsAvailable": 10
+    }
+  ],
+  "students": [
+    {
+      "id": "student-001",
+      "name": "Alex Rahman",
+      "studentId": "SE123456",
+      "major": "Software Engineering",
+      "year": "Third year",
+      "status": "Active"
+    },
+    {
+      "id": "student-002",
+      "name": "Samira Ahmed",
+      "studentId": "CS654321",
+      "major": "Computer Science",
+      "year": "Second year",
+      "status": "Active"
+    },
+    {
+      "id": "student-003",
+      "name": "Rafi Islam",
+      "studentId": "DS456789",
+      "major": "Data Science",
+      "year": "Fourth year",
+      "status": "Active"
+    },
+    {
+      "id": "student-004",
+      "name": "Nadia Karim",
+      "studentId": "SE781234",
+      "major": "Software Engineering",
+      "year": "First year",
+      "status": "Active"
+    },
+    {
+      "id": "student-005",
+      "name": "Imran Chowdhury",
+      "studentId": "IT345678",
+      "major": "Information Technology",
+      "year": "Third year",
+      "status": "Active"
+    }
+  ],
+  "events": [
+    {
+      "id": "event-001",
+      "date": "2026-11-12",
+      "time": "10:00",
+      "title": "Student project showcase",
+      "location": "Department seminar room",
+      "description": "Share work in progress and meet fellow builders.",
+      "category": "Community"
+    },
+    {
+      "id": "event-002",
+      "date": "2026-11-18",
+      "time": "13:30",
+      "title": "Career skills session",
+      "location": "Computing Lab",
+      "description": "Practice presenting your projects and technical skills.",
+      "category": "Workshop"
+    },
+    {
+      "id": "event-003",
+      "date": "2026-11-25",
+      "time": "15:00",
+      "title": "Open learning workshop",
+      "location": "Department lounge",
+      "description": "An introduction to collaborative software projects.",
+      "category": "Workshop"
+    }
+  ],
+  "news": [
+    {
+      "id": "news-001",
+      "date": "2026-11-03",
+      "title": "Course registration information",
+      "category": "Academic",
+      "excerpt": "Check official university announcements for current registration dates and course requirements."
+    },
+    {
+      "id": "news-002",
+      "date": "2026-10-28",
+      "title": "Student project showcase",
+      "category": "Department",
+      "excerpt": "Students are invited to share work in progress and connect with peers."
+    },
+    {
+      "id": "news-003",
+      "date": "2026-10-20",
+      "title": "Learning resources for the semester",
+      "category": "Resources",
+      "excerpt": "Explore documentation and practice materials for your current courses."
+    }
+  ],
+  "resources": [
+    {
+      "id": "resource-001",
+      "title": "University of Dhaka",
+      "description": "Official university website and announcements.",
+      "url": "https://www.du.ac.bd/",
+      "category": "University"
+    },
+    {
+      "id": "resource-002",
+      "title": "MDN Web Docs",
+      "description": "Reference documentation for HTML, CSS, and JavaScript.",
+      "url": "https://developer.mozilla.org/",
+      "category": "Learning"
+    },
+    {
+      "id": "resource-003",
+      "title": "Git documentation",
+      "description": "Learn version control and collaborative workflows.",
+      "url": "https://git-scm.com/doc",
+      "category": "Tools"
+    },
+    {
+      "id": "resource-004",
+      "title": "OpenStreetMap",
+      "description": "Explore the University of Dhaka campus area.",
+      "url": "https://www.openstreetmap.org/?mlat=23.735&mlon=90.398#map=16/23.735/90.398",
+      "category": "Campus"
+    }
+  ],
+  "enrollments": []
+}

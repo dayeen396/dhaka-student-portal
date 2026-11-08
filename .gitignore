@@ -1,0 +1,5 @@
+node_modules/
+dist/
+server/store.json
+server/store.json.tmp
+.DS_Store
